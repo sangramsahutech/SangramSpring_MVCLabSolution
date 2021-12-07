@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Sangram
+Build-Jdk: 16.0.1
+Implementation-Title: springMVCDemo Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.great.learning
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
